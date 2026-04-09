@@ -53,4 +53,4 @@ Excel 文档内容: [Excel 表格数据]
 ```
 
 ## Screenshot
-(Please add a screenshot of the running program)
+![Screenshot](screenshot.png)
